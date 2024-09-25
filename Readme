@@ -1,0 +1,25 @@
+CLASSES:
+classes are fundamental concept in object-oriented programing that
+enable developers to define custom data types and behaviours
+A class acts as a blueprint for creating objects—instances that bundle data (properties) and behaviors (methods) together.
+
+ARROW FUNCTIONS
+are consise way to define small, single-purpose functions.
+
+MODULES:
+Modules allow you to organize your code by splitting it into separate files, which can then be imported (required) into other files.
+
+VARIABLES:
+A variable in programming is used to store data that can be referenced and manipulated later. Variables in JavaScript can hold any type of value, such as numbers, strings, arrays, objects, etc.
+
+TERNARY OPERATOR
+The ternary operator (? :) is a concise way to write a conditional statement. It is a shorthand for the if-else statement and evaluates an expression based on whether a condition is true or false.
+
+ARRAY METHOD
+An array method is a built-in function in JavaScript that allows you to perform various operations on arrays. Some common array methods include adding/removing elements, transforming data, and iterating over arrays.
+
+DESTRUCTURING
+Destructuring is a syntax that allows you to extract values from arrays or properties from objects into distinct variables. It's a way to "unpack" data in a more readable and concise manner.
+
+SPREAD OPERATOR
+The spread operator (...) is used to spread elements of an array or object into individual components. It allows you to combine, copy, or expand arrays/objects.
